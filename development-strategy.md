@@ -1,20 +1,19 @@
 # Development Strategy
 
-> `name-of-project`
+> `Save the Earth`
 
-write a short description of your project:
-- who would want to use it?
-- why would they want to use it?
+This exercise is about practice development strategies, Git & GitHub and HTML/CSS
 
 ## Wireframe
 
 <!-- include a wireframe for your project in this repository, and display it here -->
 <!-- wireframe.cc is a good site for getting started with wireframes -->
+
 ![wireframe]()
 
 ## 0. Set-Up
 
-__A User can see my initial repository and live demo__
+**A User can see my initial repository and live demo**
 
 ### Repo
 
@@ -22,21 +21,21 @@ __A User can see my initial repository and live demo__
 - Write initial, basic README
 - Turn on GitHub Pages
 
-## 1. __
+## 1. User Story: HTML Structure
 
-__full user story description__
+**As a visitor I want to see the html structure of the page**
 
 ### Repo
 
-what branch(es) did you work on?
+This user story was developed on a branch called `html-structure`
 
 ### HTML
 
-what did you change in the HTML and why?
+Making the structure of the page
 
 ### CSS
 
-what did you change in the CSS and why?
+There is no styling in this step
 
 ## 2. ...
 
