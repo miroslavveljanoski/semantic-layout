@@ -35,6 +35,8 @@ header nav {
 /* Sections */
 section {
   background: url(https://www.savetheearth.org/wp-content/uploads/2019/09/bg-2.jpg) no-repeat;
+  padding: 0 10px 0 10px;
+  float: left;
 }
 
 section h3 {
@@ -43,3 +45,25 @@ section h3 {
 }
 
 /* Article */
+article {
+  padding: 0 10px 0 10px;
+  margin: 10px;
+}
+
+article h3 {
+  text-align: center;
+}
+
+/* Aside */
+aside {
+  padding: 10px;
+  text-align: center;
+  float: right;
+  width: 25%;
+}
+
+footer {
+  background-color: green;
+  text-align: center;
+  padding: 10px;
+}
