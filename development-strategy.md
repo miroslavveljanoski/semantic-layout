@@ -9,7 +9,8 @@ This exercise is about practice development strategies, Git & GitHub and HTML/CS
 <!-- include a wireframe for your project in this repository, and display it here -->
 <!-- wireframe.cc is a good site for getting started with wireframes -->
 
-![wireframe]()
+[wireframe](https://wireframe.cc/QTuicO)
+![wireframe](./wireframe.png)
 
 ## 0. Set-Up
 
@@ -37,13 +38,25 @@ Making the structure of the page
 
 There is no styling in this step
 
-## 2. ...
+## 2. User Story: Styling page
 
-...
+**As a visitor I want to see the style of the page**
 
-...
+### Repo
+
+This user story was developed on a branch called `styling`
+
+### HTML
+
+There is no big changes in HTML structure in this step
+
+### CSS
+
+Styling of the page
 
 ## Finishing Touches
+
+This user story was developed on a branch called `finishing-touches`
 
 - Write final, complete README:
   - [makeareadme.com](https://www.makeareadme.com/)
